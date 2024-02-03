@@ -15,6 +15,7 @@ langchain = "^0.1.5"
 llama-index = "^0.9.41"
 langchain-google-genai = "^0.0.6"
 chromadb = "^0.4.22"
+sqlmodel = "^0.0.14"
 
 
 [build-system]
