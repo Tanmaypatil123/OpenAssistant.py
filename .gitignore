@@ -3,9 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+uploads/
+
 # C extensions
 *.so
-
+db.sqlite
+test.py
 # Distribution / packaging
 .Python
 build/
